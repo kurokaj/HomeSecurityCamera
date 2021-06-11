@@ -1,0 +1,2 @@
+# HomeSecurityCamera
+Home Security Camera project, where raspberry pi micro chip and camera supervise certain location, detects and identifies faces and sends those faces and labels to Azure cloud. A custom android app gets notification from the cloud about people trespassing and also the images of the faces. So this is basically smart security camera with custom mobile application and cloud database. See the project wall for more info. 

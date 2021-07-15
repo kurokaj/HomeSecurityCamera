@@ -1,3 +1,3 @@
 https://www.pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
-
+https://towardsdatascience.com/real-time-face-recognition-with-cpu-983d35cc3ec5
 https://machinelearningmastery.com/introduction-to-deep-learning-for-face-recognition/
